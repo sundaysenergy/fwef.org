@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://fwef.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Women&#039;s Environmental Network (formerly FWEF) - Plants/Gardening/Soil</title>
+ <link>http://fwef.org/taxonomy/term/8/0</link>
+ <description></description>
+ <language>en-US</language>
+<item>
+ <title>Employment Opportunities</title>
+ <link>http://fwef.org/employment</link>
+ <description></description>
+ <comments>http://fwef.org/employment#comments</comments>
+ <category domain="http://fwef.org/taxonomy/term/8">Plants/Gardening/Soil</category>
+ <enclosure url="http://fwef.org/sites/fwef.org/files/4-H_intern_application.pdf" length="177407" type="application/pdf" />
+ <pubDate>Wed, 12 Sep 2007 08:22:49 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">5 at http://fwef.org</guid>
+</item>
+</channel>
+</rss>
